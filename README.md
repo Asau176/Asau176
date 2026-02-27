@@ -2,7 +2,7 @@
 
 I'm currently a student at St. Lawrence University, soon to graduate Spring '26 with a biology major and a heavily emphasized minor in statistics. 
 
-With an academic projects and hands-on experience in both wet-lab and computational research settings, I'm motivated to translate complex data into meaningful insights that support healthcare, pharmaceutical, and biotech decision making. 
+With hands-on experience in both wet-lab and computational research settings, I'm motivated to translate complex data into meaningful insights that support healthcare, pharmaceutical, and biotech decision making. 
 Currently my strengths lie in Rstudio, followed by confidence in basic programming skills within Python.
 <!--
 **Asau176/Asau176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
