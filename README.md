@@ -1,13 +1,13 @@
 ## Hi there! 👋
 
-I'm currently a student at St. Lawrence University, soon to graduate Spring '26 with a biology major and a heavily emphasized minor in statistics. 
+I'm a recent Summa Cum Laude graduate of St. Lawrence University, with a biology major and a heavily emphasized minor in statistics. Additionally, I have extensive coursework in data analytics and visualization, where you'll find some of my projects uploaded here. 
 
 With hands-on experience in both wet-lab and computational research settings, I'm motivated to translate complex data into meaningful insights that support healthcare, pharmaceutical, and biotech decision making. 
 Currently my strengths lie in Rstudio, followed by confidence in basic programming skills within Python. 
 
 I'm currently seeking challenging analytical work in the healthcare, pharmaceutical, and biotechnology realm. My ideal team would value integrity, creativity, and taking the initiative. 
 If you have questions about my work or would like to see if I'm a fit for your team, don't hesitate to reach out!
-I'd love the opportunity to meet. 
+I'd love the opportunity to meet, reach out to me via LinkedIn and I'll reply shortly. 
 <!--
 **Asau176/Asau176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
